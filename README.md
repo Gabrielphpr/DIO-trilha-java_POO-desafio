@@ -15,7 +15,7 @@ classDiagram
         <<Interface>>
         +Ligar(String Nome)
         +Atender()
-        +IniciarCorreioDeVoz(String exemplo)
+        +IniciarCorreioDeVoz()
     }
 
     class NavegadorInternet {
